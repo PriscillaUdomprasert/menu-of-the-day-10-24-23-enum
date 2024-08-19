@@ -1,0 +1,20 @@
+Baked salmon	10	sat
+Greek salad	7	sat
+Pork chops	11	thu
+Roast beef	10	mon
+Potato soup	6	mon
+BBQ chicken	9	wed
+Smoked brisket	12	wed
+Baked cod	10	mon
+Butter chicken	11	tue
+Cobb salad	7	wed
+Cream chops	10	sun
+Mac n cheese	7	fri
+Lamb tikka	12	tue
+Roasted turkey	10	sun
+Shrimp fried rice	10	thu
+Gulab jamun	7	thu
+German forest cake	7	tue
+Chicken paprikash	10	sun
+Fish n chips	10	fri
+Clam chowder	6	fri
